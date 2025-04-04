@@ -79,7 +79,7 @@ python main.py
 
 5. Access the Chatbot
 
-Open your Botpress or web client as configured.
+Open your Thinkstack Ai  , botpress or web client as configured.
 
 Start chatting with your banking assistant.
 

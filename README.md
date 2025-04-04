@@ -10,7 +10,7 @@ Features
 
 Tech Stack
 
-Botpress (Conversational AI)
+Botpress (Conversational AI) And Thinkstack AI
 
 Pathway (Real-time data processing)
 

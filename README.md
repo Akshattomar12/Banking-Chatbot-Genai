@@ -57,7 +57,7 @@ Setup Instructions
 
 1. Clone the Repository
 
-git clone https://github.com/Akshattomar12/Banking-Chatbot-GenAI.git
+git clone https://github.com/Akshattomar12/Banking-Chatbot-Genai.git
 cd Banking-Chatbot-GenAI
 
 2. Install Dependencies
